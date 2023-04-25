@@ -22,10 +22,10 @@
       description: Announcements
     1100105149390803015:
       description: Pridepack
-		1100200549103710288:
-			description: Pridemod
-		1100105190331392020:
-			description: Modpack
+    1100200549103710288:
+      description: Pridemod
+    1100105190331392020:
+      description: Modpack
 
 - type: roles
   id: pronoun-roles
