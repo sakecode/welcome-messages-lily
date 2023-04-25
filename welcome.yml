@@ -1,0 +1,70 @@
+- type: embed
+  embeds:
+    - title: Welcome to the Pridecraft Discord server!
+      color: 0x6366F1
+      description: Pridecraft is a small studio dedicated to creating pride themed content for minecraft.
+
+- type: rules
+  rules:
+    Follow Discord's rules: 'These include the [Community Guidelines](https://discord.com/guidelines) and the [Terms of Service](https://discord.com/terms).'
+    Listen to and respect all community team members: Please take requests from community team members seriously and listen when one asks you to do something. If you have a problem with what a team member is asking you to do, step away from the situation and send a private message to another team member.
+    Do not harass anyone: Be respectful of others physical and mental conditions. Xenophobia is not tolerated. We want to make participation in our community a harassment-free experience for everyone. If you think that someone is breaking the rules, contact the moderators, instead of harassing them.
+    Keep all activity legal, legitimate, and appropriate: We do not tolerate users breaking any laws, breaching a ToS or an EULA, posting overly sexual content, or anything the moderators determine to be malicious or inappropriate. Shilling crypto currency related products and gambling websites is strictly forbidden. NFTs are especially forbidden.
+    Do not misuse accessibility tools: '[PluralKit](https://pluralkit.me) is here as aid for self identification purposes. For more information on plurality: [more then one](https://morethanone.info/)'
+    Remember to have fun: owo
+- type: roles
+  id: notification-roles
+  title: Notification roles
+  template: '**»** {MENTION}'
+
+  roles:
+    1100105107871371364:
+      description: Announcements
+    1100105149390803015:
+      description: Pridepack
+		1100200549103710288:
+			description: Pridemod
+		1100105190331392020:
+			description: Modpack
+
+- type: roles
+  id: pronoun-roles
+  title: Pronoun roles
+  template: '**»** {MENTION}'
+
+  roles:
+    1100202143249596578:
+      description: he/him
+    1100202197289009324:
+      description: she/her
+    1100202204788432976:
+      description: they/them
+    1100202215106416750:
+      description: it/its
+    1100202676173676615:
+      description: no pronouns (use name)
+    1100202218357002324:
+      description: any pronouns
+    1100202370400530502:
+      description: ask for pronouns
+    1100202407604015174:
+      description: check pk
+- type: roles
+  id: community-roles
+  title: Community roles
+  template: "**»** {EMOJI} {MENTION}"
+
+  roles:
+    1100207956156485694:
+      description: Trans Rights
+      emoji: "<:blobfoxtransheart:1098757397570404382>"
+    1100208042684985377:
+      description: Blobfox Fanatic
+      emoji: "<:moreblobfox:1098757180603240519>"
+    1100208081792675903:
+      description: Waffle
+      emoji: "<:blobfoxnomwaffle:1098756485418328164>"
+
+
+- type: text
+  text: https://discord.gg/DvfXFvfvJU
